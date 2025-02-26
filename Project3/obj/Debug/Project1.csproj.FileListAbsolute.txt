@@ -1,0 +1,10 @@
+C:\Users\cammi\source\repos\Project1_retry\Project1_retry\bin\Debug\Project1_retry.exe.config
+C:\Users\cammi\source\repos\Project1_retry\Project1_retry\bin\Debug\Project1_retry.exe
+C:\Users\cammi\source\repos\Project1_retry\Project1_retry\bin\Debug\Project1_retry.pdb
+C:\Users\cammi\source\repos\Project1_retry\Project1_retry\obj\Debug\Project1.csproj.AssemblyReference.cache
+C:\Users\cammi\source\repos\Project1_retry\Project1_retry\obj\Debug\Project_1.Form1.resources
+C:\Users\cammi\source\repos\Project1_retry\Project1_retry\obj\Debug\Project1_retry.Properties.Resources.resources
+C:\Users\cammi\source\repos\Project1_retry\Project1_retry\obj\Debug\Project1.csproj.GenerateResource.cache
+C:\Users\cammi\source\repos\Project1_retry\Project1_retry\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\Users\cammi\source\repos\Project1_retry\Project1_retry\obj\Debug\Project1_retry.exe
+C:\Users\cammi\source\repos\Project1_retry\Project1_retry\obj\Debug\Project1_retry.pdb

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="aCandlestick.datasource" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="aCandlestick.datasource" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="aCandlestick.datasource" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="_aCandlestick_datasource">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="aCandlestick" msprop:Generator_RowEvHandlerName="aCandlestickRowChangeEventHandler" msprop:Generator_RowDeletedName="aCandlestickRowDeleted" msprop:Generator_RowDeletingName="aCandlestickRowDeleting" msprop:Generator_RowEvArgName="aCandlestickRowChangeEvent" msprop:Generator_TablePropName="aCandlestick" msprop:Generator_RowChangedName="aCandlestickRowChanged" msprop:Generator_UserTableName="aCandlestick" msprop:Generator_RowChangingName="aCandlestickRowChanging" msprop:Generator_RowClassName="aCandlestickRow" msprop:Generator_TableClassName="aCandlestickDataTable" msprop:Generator_TableVarName="tableaCandlestick">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Date" msprop:Generator_ColumnPropNameInTable="DateColumn" msprop:Generator_ColumnPropNameInRow="Date" msprop:Generator_UserColumnName="Date" msprop:Generator_ColumnVarNameInTable="columnDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Open" msprop:Generator_ColumnPropNameInTable="OpenColumn" msprop:Generator_ColumnPropNameInRow="Open" msprop:Generator_UserColumnName="Open" msprop:Generator_ColumnVarNameInTable="columnOpen" type="xs:double" minOccurs="0" />
+              <xs:element name="High" msprop:Generator_ColumnPropNameInTable="HighColumn" msprop:Generator_ColumnPropNameInRow="High" msprop:Generator_UserColumnName="High" msprop:Generator_ColumnVarNameInTable="columnHigh" type="xs:double" minOccurs="0" />
+              <xs:element name="Low" msprop:Generator_ColumnPropNameInTable="LowColumn" msprop:Generator_ColumnPropNameInRow="Low" msprop:Generator_UserColumnName="Low" msprop:Generator_ColumnVarNameInTable="columnLow" type="xs:double" minOccurs="0" />
+              <xs:element name="Close" msprop:Generator_ColumnPropNameInTable="CloseColumn" msprop:Generator_ColumnPropNameInRow="Close" msprop:Generator_UserColumnName="Close" msprop:Generator_ColumnVarNameInTable="columnClose" type="xs:double" minOccurs="0" />
+              <xs:element name="Volume" msprop:Generator_ColumnPropNameInRow="Volume" msprop:Generator_ColumnPropNameInTable="VolumeColumn" msprop:Generator_ColumnVarNameInTable="columnVolume" msprop:Generator_UserColumnName="Volume" type="xs:unsignedLong" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
