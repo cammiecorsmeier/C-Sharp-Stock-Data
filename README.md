@@ -48,11 +48,6 @@ This Windows Forms Application is designed to predict future lows and highs of s
 - System.Windows.Forms.DataVisualization
 - CSV file parsing libraries
 
-## Submission Instructions
-1. Clean the solution in Visual Studio (`Build` > `Clean Solution`).
-2. Zip the solution folder.
-3. Submit the zipped file as per the assignment requirements.
-
 ## Author
 Developed as part of Project 3 in the course. This application builds upon Project 2, incorporating wave selection, Fibonacci levels, and the Beauty function for stock price prediction.
 
